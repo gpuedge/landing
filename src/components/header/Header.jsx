@@ -11,10 +11,10 @@ const Header = () => {
           Offload <span></span>
         </h1>
         <p>
-          The power of a <b>supercomputer</b> in your hands. Scroll down for more information.
+          The power of a <b>supercomputer</b> in your hands.
         </p>
         <button onClick={() => window.location.replace("/#WORK_TYPES")}>
-          Learn More
+          Run your Job
         </button>
       </div>
       <motion.div
